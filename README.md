@@ -12,3 +12,6 @@ Features
 Requirements
 - Java 11 or higher
 - Support for UTF-8 encoding in the terminal
+
+
+to compile, run the file ToDoListApp.java
